@@ -4,3 +4,5 @@ ________________________________________________________________________________
 Move Stylus Up - Bigger Brush <br>
 Move Stylus Down - Smaller Brush <br>
 _________________________________________________________________________________________
+
+[Install Autohotkey](https://www.autohotkey.com)
